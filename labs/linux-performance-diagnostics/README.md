@@ -76,4 +76,4 @@ Diagnóstico estruturado economiza tempo e evita decisões erradas em produção
 
 Fluxo recomendado:
 
-CPU → RAM → IO → Disco → Rede → Aplicação
+CPU → RAM → IO → Disco → Rede → Aplicação 
