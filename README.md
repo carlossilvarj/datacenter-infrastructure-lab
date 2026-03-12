@@ -1,4 +1,4 @@
-# Datacenter Infrastructure Lab
+# # Linux Datacenter Infrastructure Lab
 
 Laboratório prático de troubleshooting e diagnóstico de infraestrutura Linux.
 
@@ -15,3 +15,6 @@ Este repositório contém laboratórios que simulam problemas reais encontrados 
 ## Fluxo profissional de diagnóstico
 
 CPU → Memória → IO → Disco → Rede → Aplicação
+## Objetivo do projeto
+
+Criar uma biblioteca prática de troubleshooting e diagnóstico de infraestrutura Linux baseada em cenários reais de produção.
