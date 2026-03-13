@@ -1,8 +1,10 @@
-# # Linux Datacenter Infrastructure Lab
+# Linux Datacenter Infrastructure Lab
 
 Laboratório prático de troubleshooting e diagnóstico de infraestrutura Linux.
 
 Este repositório contém laboratórios que simulam problemas reais encontrados em ambientes de produção.
+
+---
 
 ## Laboratórios disponíveis
 
@@ -12,11 +14,49 @@ Este repositório contém laboratórios que simulam problemas reais encontrados 
 - Incidente de Disco Cheio (em breve)
 - Investigação de Gargalo de IO (em breve)
 
+---
+
 ## Fluxo profissional de diagnóstico
 
 CPU → Memória → IO → Disco → Rede → Aplicação
-## Objetivo do projeto
+
+---
+
+## Fluxo de investigação
++------+
+| CPU  |
++------+
+    ↓
++------+
+| RAM  |
++------+
+    ↓
++------+
+| IO   |
++------+
+    ↓
++------+
+| Disk |
++------+
+    ↓
++------+
+| Net  |
++------+
+    ↓
++------+
+| App  |
++------+
+
+---
 
 ## Estrutura do repositório
 
-Criar uma biblioteca prática de troubleshooting e diagnóstico de infraestrutura Linux baseada em cenários reais de produção.
+```
+labs/
+ ├─ linux-performance-diagnostics
+ │   └─ README.md
+ ├─ cpu-saturacao
+ │   └─ README.md
+```
+
+Cada pasta contém um laboratório baseado em cenários reais de troubleshooting em servidores Linux.
