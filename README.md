@@ -6,11 +6,13 @@ Este repositório contém laboratórios que simulam problemas reais encontrados 
 
 ## Labs disponíveis
 
-- Linux Performance Diagnostics
-- CPU Saturation Investigation (em breve)
-- Memory Pressure Analysis (em breve)
-- Disk Full Incident (em breve)
-- IO Bottleneck Investigation (em breve)
+## Laboratórios disponíveis
+
+- Diagnóstico de Desempenho do Linux
+- Investigação de Saturação de CPU
+- Análise de Pressão de Memória (em breve)
+- Incidente de Disco Cheio (em breve)
+- Investigação de Gargalo de IO (em breve)
 
 ## Fluxo profissional de diagnóstico
 
