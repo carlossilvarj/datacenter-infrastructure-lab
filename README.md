@@ -4,12 +4,10 @@ Laboratório prático de troubleshooting e diagnóstico de infraestrutura Linux.
 
 Este repositório contém laboratórios que simulam problemas reais encontrados em ambientes de produção.
 
-## Labs disponíveis
-
 ## Laboratórios disponíveis
 
-- Diagnóstico de Desempenho do Linux
-- Investigação de Saturação de CPU
+- [Diagnóstico de Desempenho do Linux](labs/linux-performance-diagnostics)
+- [Investigação de Saturação de CPU](labs/cpu-saturacao)
 - Análise de Pressão de Memória (em breve)
 - Incidente de Disco Cheio (em breve)
 - Investigação de Gargalo de IO (em breve)
