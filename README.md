@@ -16,6 +16,7 @@ Este repositório contém laboratórios que simulam problemas reais encontrados 
 
 CPU → Memória → IO → Disco → Rede → Aplicação
 ## Objetivo do projeto
+
 ## Estrutura do repositório
 
 Criar uma biblioteca prática de troubleshooting e diagnóstico de infraestrutura Linux baseada em cenários reais de produção.
